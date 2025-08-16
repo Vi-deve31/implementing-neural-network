@@ -1,2 +1,2 @@
 # implementing-neural-network
-Implementing a neural network using Keras
+This project implements a neural network built from the ground up using core programming principles. It systematically covers all essential components of neural network development, including designing the network architecture, implementing forward propagation to move data through the layers, developing backward propagation for gradient calculation, and applying optimization methods for weight updates. The implementation emphasizes fundamental concepts such as activation functions, loss computation, and gradient descent algorithms. By avoiding high-level frameworks, this project gives insight into the computational mechanisms that drive neural network functionality.
